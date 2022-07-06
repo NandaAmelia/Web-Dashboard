@@ -1,0 +1,63 @@
+ body{
+  background-image: url("../img/bg-red.jpg");
+}
+.p-sidebar {
+  padding-top: 7rem !important;
+  left: 0.5rem !important;
+  right: 0.5rem !important;
+  }
+
+.btn-sidebar {
+  color: #fff;
+  background-color: #f8f9fa;
+  border-color: #f8f9fa;
+}
+.btn-sidebar:hover {
+  color: #fff;
+  background-color: #dc3545;
+  border-color: #dc3545;
+}
+.posisi-tabel {
+  margin-left: 3rem !important;
+  margin-top: 10rem !important;
+}
+.small{
+  font-size: 7px;
+}
+.alert-biru {
+  color: #064C6F;
+  background-color: #064C6F;
+  border-color: #b6d4fe;
+}
+.p-fix {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+.p-after {
+  position: fixed;
+  top: 3.5rem;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+.batas-atas{
+  margin-top: 7.5rem;
+}
+.batas-atas1{
+  margin-top: 6rem;
+}
+.blue-main{
+  color: #229BD8 !important;
+}
+.blue-dark{
+  color: #064C6F !important;
+}
+.bg-blue-soft{
+  background-color: #EAF5FA !important;
+}
+.bg-abu{
+  background-color: #EEEEEE !important;
+}
